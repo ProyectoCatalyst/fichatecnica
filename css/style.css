@@ -628,6 +628,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 0 0 4px 4px;
   box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
   margin-bottom: 20px;
+  min-height: 470px;
 }
 
 #about .about-col .img {
@@ -736,6 +737,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-left: 60px;
   line-height: 24px;
   margin-bottom: 0;
+  text-align: justify;
 }
 
 /* Call To Action Section
